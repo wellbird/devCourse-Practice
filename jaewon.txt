@@ -4,3 +4,4 @@ first commit
 second commit
 third commit
 feature commit
+feature commit 2
