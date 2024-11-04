@@ -5,3 +5,4 @@ second commit
 third commit
 feature commit
 feature commit 2
+feature commit 3
