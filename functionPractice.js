@@ -73,7 +73,7 @@ twelfth();
 function fourteenth(arg) {
   if (arg === 3) return;
   console.log(arg);
-  fourteenth(arg++);
+  fourteenth(++arg);
 }
 fourteenth(1);
 
